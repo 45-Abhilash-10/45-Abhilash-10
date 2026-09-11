@@ -67,12 +67,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=45-Abhilash-10&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=45-Abhilash-10&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=45-Abhilash-10&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&border_color=30363D" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=45-Abhilash-10&theme=transparent&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border=30363D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=45-Abhilash-10&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=45-Abhilash-10&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&border_color=30363D" alt="Top Languages" />
 </p>
 
 ---
