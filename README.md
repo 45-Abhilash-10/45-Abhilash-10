@@ -77,6 +77,17 @@
 
 ---
 
+### 🚀 Featured Projects & Repositories
+
+| Repository | Tech Stack / Focus | Description |
+| :--- | :--- | :--- |
+| **[Chocolate-Company-Sales-Analysis-](https://github.com/45-Abhilash-10/Chocolate-Company-Sales-Analysis-)** | Python / Data Analytics | Comprehensive sales performance analysis and data insights. |
+| **[EDAV-project](https://github.com/45-Abhilash-10/EDAV-project)** | Python | Online course completion analysis and exploratory data visualization. |
+| **[Frontend](https://github.com/45-Abhilash-10/Frontend)** | JavaScript / HTML / CSS | Modern responsive web development projects and interface components. |
+| **[EAD](https://github.com/45-Abhilash-10/EAD)** | JavaScript | Core web scripting assignments and structural modules. |
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=45-Abhilash-10&icon=0&color=0" alt="Profile Views" />
 </p>
