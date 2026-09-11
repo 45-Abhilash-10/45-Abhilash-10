@@ -1,114 +1,100 @@
 <div align="center">
 
-# Hey, I'm **Abhilash** 👋
+<img src="https://komarev.com/ghpvc/?username=45-Abhilash-10&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS"/>
 
-### `Data Analytics` · `Machine Learning` · `Full Stack`
+# Hi, I'm Abhilash Velpula 👋
 
-**B.Tech IT @ CBIT** · **Co-Founder @ SmartPlot Designs**
+### Data Analyst • Full-Stack Developer • ML Enthusiast
 
-<br>
+**B.Tech IT Student @ CBIT** | Co-Founder, **SmartPlot Designs**
+
+*Turning data into insights. Turning ideas into products.*
+
+<p>
+  <a href="https://linkedin.com/in/abhilash-velpula-72444a348">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhilashvelpula826@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/45_sunny_yadav_10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech IT @ Chaitanya Bharathi Institute of Technology
+- 📊 Aspiring Data Analyst & Data Scientist | 🤖 ML Enthusiast
+- 💻 Full-Stack Developer | 🧠 DSA & Problem Solving
+- 🚀 Co-Founder — SmartPlot Designs
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
+
+**Data & ML:**
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+
+**Web Dev:**
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb"/>
+
+**Tools:**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Stack | Link |
+|---|---|---|
+| 🍫 **Chocolate Company Sales Analysis** | Power BI, Python, DAX | [Repo](https://github.com/45-Abhilash-10/Chocolate-Company-Sales-Analysis-) |
+| 📚 **EDAV — Exploratory Data Analysis** | Python, Pandas, Matplotlib | [Repo](https://github.com/45-Abhilash-10/EDAV-project) |
+| 🌐 **Full-Stack Web Projects** | React, Node.js, Express, MongoDB | [Repo](https://github.com/45-Abhilash-10/Frontend) |
+| 🧠 **Multi-Disease Prediction System** | Python, Scikit-learn, Flask | ML classifiers + deployment |
+| 📈 **Macroeconomic Indicators & NIFTY 50** | Power BI, Python | GDP, CPI, Repo Rate vs NIFTY 50 |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=45-Abhilash-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=45-Abhilash-10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=45-Abhilash-10&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+`Data Analytics` `Machine Learning` `Advanced SQL` `Power BI & DAX` `DSA` `Open Source` `SmartPlot Designs`
+
+---
+
+<div align="center">
+
+### 🤝 Open to internships, collaborations & data/ML/full-stack projects
 
 <a href="https://linkedin.com/in/abhilash-velpula-72444a348">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:abhilashvelpula826@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335"/>
-</a>
-&nbsp;
-<a href="https://github.com/45-Abhilash-10">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contact%20Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+⭐ *If you find my projects useful, consider giving them a star!*
 
-<br>
-
-<div align="center">
-
-> **Building with data. Creating with code.**
-
-</div>
-
----
-
-### 👨‍💻 About
-
-I'm an **IT engineering student** passionate about turning data and ideas into useful products.
-
-Currently focused on **Data Analytics, Machine Learning, Full-Stack Development & DSA**.
-
----
-
-### ⚡ Stack
-
-**Languages**
-
-`Python` `C++` `Java` `JavaScript` `C`
-
-**Data & ML**
-
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
-`Power BI` `DAX` `Matplotlib` `Plotly`
-
-**Development**
-
-`React` `Node.js` `Express` `MongoDB` `MySQL`
-`HTML` `CSS` `Bootstrap`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Anaconda` `Notion`
-
----
-
-### 🚀 Selected Work
-
-| Project                          | Focus                             |
-| -------------------------------- | --------------------------------- |
-| 🍫 **Chocolate Sales Analytics** | Power BI · Python · DAX           |
-| 📊 **EDAV Project**              | Python · Data Visualization       |
-| 🧠 **Multi-Disease Prediction**  | ML · Scikit-learn · Flask         |
-| 📈 **NIFTY 50 Analytics**        | Power BI · Macroeconomic Analysis |
-| 🌐 **Full-Stack Projects**       | React · Node · MongoDB            |
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/45-Abhilash-10/Chocolate-Company-Sales-Analysis-">Chocolate Analytics</a>
-  ·   <a href="https://github.com/45-Abhilash-10/EDAV-project">EDAV</a>
-  ·   <a href="https://github.com/45-Abhilash-10/Frontend">Frontend</a>
-  ·   <a href="https://github.com/45-Abhilash-10/EAD">EAD</a>
-
-</div>
-
----
-
-### 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=45-Abhilash-10&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=45-Abhilash-10&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=45-Abhilash-10&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Currently learning · Building · Improving
-
-**Data → Insights → Products**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=45-Abhilash-10&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+**Code. Analyze. Build. Repeat.**
 
 </div>
